@@ -1,11 +1,12 @@
-# 📚 Obsidian our Kyobo Book Search Plugin
+# 📚 Our Kyobo Book Search (for Obsidian)
+
 옵시디언에서 교보문고 도서 정보를 검색하고, 완벽한 포맷의 독서 노트를 자동으로 생성해 주는 플러그인입니다.
 
 ## ✨ 주요 기능
 - 교보문고 데이터베이스(JSON)를 직접 검색하여 100% 정확한 정보 추출
 - 저자와 역자를 완벽하게 분리하여 속성(Property)에 저장 (예: `저자명(저자) / 역자명(번역)`)
-- 불필요한 광고 배너를 제거한 순수 '책소개', '저자소개', '목차' 렌더링
-- 중복 폴더 생성 방지 로직 탑재
+- 불필요한 광고 배너를 제거한 순수 '책소개' 및 '목차' 렌더링
+- 옵시디언 폴더 띄어쓰기 중복 생성 방지 로직 탑재
 
 ## 📥 설치 방법 (수동 설치)
 1. 우측의 **Releases** 탭에서 가장 최신 버전의 `main.js`와 `manifest.json` 파일을 다운로드합니다.
@@ -15,4 +16,4 @@
 
 ## 📥 BRAT을 이용한 설치 (권장)
 BRAT 플러그인을 사용 중이시라면 아래 주소를 입력하여 클릭 한 번에 설치할 수 있습니다.
-`HanTae-ho/obsidian-kyobo-book-search`
+`Hantae-ho/obsidian-our-kyobo-book-search`
